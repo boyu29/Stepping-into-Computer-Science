@@ -54,9 +54,8 @@ Solution: https://github.com/jiahui-z/Berkeley-CS61B-18Spring
 
 ​				 https://github.com/seriouszyx/cs61b
 
-### <u>Computer Networks</u>
-
-missing components
+### <u>HIT: Computer Networks</u>
+Course: https://www.bilibili.com/video/BV1Up411Z7hC?p=2
 
 ### MIT 6.824 Distributed System
 
