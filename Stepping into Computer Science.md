@@ -7,11 +7,7 @@
 If you have some basic experience like finishing programming courses at school, personally I don't think it is necessary to take this introduction course again.
 
 ### Harvard: CS50's Introduction to Computer Science
-
 https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
-
-
-
 ## Professional Skills Required for My Internship
 
 I'm doing interships during my gap year and my work requires python programming skills. I'm not familiar with python so I registered a python programming course in Coursera.
