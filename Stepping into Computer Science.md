@@ -50,10 +50,6 @@ Course: https://sp18.datastructur.es/
 
 AutoLab: https://www.gradescope.com/
 
-​		Account: boyu5852@zju.edu.cn		
-
-​		Password: Chenboyu123.00
-
 Solution: https://github.com/jiahui-z/Berkeley-CS61B-18Spring
 
 ​				 https://github.com/seriouszyx/cs61b
