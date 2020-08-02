@@ -18,6 +18,9 @@ Course: https://www.coursera.org/learn/python/home/welcome
 
 ## General Fundamentals
 
+### SQL
+Course: https://www.bilibili.com/video/BV1QJ411Q7pY?p=1
+
 ### CMU 15-213 Introduction to Computer Systems
 
 *<u>Operating System</u>*
