@@ -23,8 +23,6 @@ Course: https://www.bilibili.com/video/BV1QJ411Q7pY?p=1
 
 ### CMU 15-213 Introduction to Computer Systems
 
-*<u>Also Named Operating System</u>*
-
 Course: http://www.cs.cmu.edu/afs/cs/academic/class/15213-f17/www/index.html
 
 Lab: http://csapp.cs.cmu.edu/
