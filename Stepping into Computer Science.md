@@ -31,7 +31,7 @@ Lab Solution: https://github.com/xuzhezhaozhao/CSAPP-Labs
 
 ### <u>MIT 6.828 Operating System Engineering</u>
 
-Summary and lists: https://learn-cs.netlify.app/mit/6.828
+Summary and lists: https://learn-cs.netlify.app/mit/6.s081
 
 Course: https://pdos.csail.mit.edu/6.828/2019/schedule.html
 
